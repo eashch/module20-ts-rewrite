@@ -1,0 +1,1 @@
+This is an educational project of rewriting JS script to TS.
